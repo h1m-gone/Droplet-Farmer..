@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c33iyyeu7batw"
+path="res://.godot/imported/Water Plop - Sound Effect (HD)-bCPKfDOYyOc.mp3-c635c493d4ad35f8d8898b9f0b0025c4.mp3str"
+
+[deps]
+
+source_file="res://Water Plop - Sound Effect (HD)-bCPKfDOYyOc.mp3"
+dest_files=["res://.godot/imported/Water Plop - Sound Effect (HD)-bCPKfDOYyOc.mp3-c635c493d4ad35f8d8898b9f0b0025c4.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4
